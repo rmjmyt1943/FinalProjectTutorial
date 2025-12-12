@@ -27,5 +27,5 @@ The **Server** is the computer *providing* the information.
 ---
 
 ### Navigation
-* [**Next Step: Part 2 - The Address Book (DNS)**](02-dns-lookup.md)
+* [**Next Step: Part 2 - The Address Book (DNS)**](02-DNS-Search.md)
 * [Return to Home](README.md)
