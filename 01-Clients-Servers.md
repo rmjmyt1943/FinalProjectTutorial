@@ -4,7 +4,7 @@ Before we look at how data moves, we must understand the two main "actors" in th
 
 
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/908bf943-539b-4cd7-9983-9da6dc9f1013" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/908bf943-539b-4cd7-9983-9da6dc9f1013" />
 
 
 
